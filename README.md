@@ -22,3 +22,5 @@ de ARN total. Las muestras fueron hibridadas con GeneChip Human U133 2.0 Plus (A
 datos fueron leídos con GeneChip Scanner 3000, para almacenarse utilizando Expression Console Versión 1.1
 (Affymetrix). Los archivos .CEL que contienen la anotación de genes destacados fueron descargados de la
 página web Gene Expression Omnibus (GEO).
+
+![Genes diferencialmente expresados](https://github.com/CristValen/datos-omicos-R/blob/main/unnamed-chunk-29-1.png?raw=true)
